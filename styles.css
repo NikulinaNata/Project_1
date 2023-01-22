@@ -6,7 +6,6 @@ body {
 }
 .header {
     background-color: black;
-    max-width: 1440px;
 }
 .container-header {
     display: flex;
@@ -82,8 +81,8 @@ body {
     box-shadow: none;
 }
 .section_one {
+    position: relative;
     background-image: url("images/image 4.3.jpg");
-    max-width: 1440px;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -169,7 +168,6 @@ body {
 .section_two {
     background: #131313;
     background-size: 100%;
-    max-width: 1440px;
     height: 1074px;
     position: relative;
     margin: 0 auto;
@@ -281,7 +279,6 @@ body {
 }
 .section_three {
    position: relative;
-   max-width: 1440px;
    z-index: 2;
    top: -360px;
    margin: 0 auto;
@@ -423,7 +420,6 @@ body {
 }
 .section_four {
     position: relative;
-    max-width: 1440px;
     top: -230px;
     margin: 0 auto;
  }
@@ -507,7 +503,6 @@ h4 {
 .section_five {
     position: relative;
     background: white;
-    max-width: 1440px;
     height: 980px;
     top: -250px;
     margin: 0 auto;
@@ -692,7 +687,6 @@ h4 {
     position: relative;
     background-image: url("images/image 5.1.png");
     background-size: cover;
-    max-width: 1440px;
     top: -240px;
     margin: 0 auto;
 }
@@ -863,7 +857,6 @@ h4 {
 }
 .section_eight {
     position: relative;
-    max-width: 1440px;
     top: -150px;
     margin: 0 auto;
 }
