@@ -1071,12 +1071,12 @@ footer {
     .title-one {
         position: absolute;
         left: 4.5%;
-        top: 140px;
+        top: 40px;
     }
     .p_1 {
         position: absolute;
         left: 4.5%;
-        top: 215px;
+        top: 115px;
         font-family: 'Nunito Sans', sans-serif;
         font-style: normal;
         font-weight: 400;
@@ -1089,7 +1089,7 @@ footer {
     }
     .buttons_s1_p1 {
         position: absolute;
-        top: 320px;
+        top: 220px;
         left: 4.5%;
         width: 338px;
         height: 140px;
